@@ -1,0 +1,8 @@
+Gerar as Migrations
+npx drizzle-kit generate
+
+rodar as Migrations
+npx drizzle-kit migrate
+
+Interface do banco de dados 
+     npx drizzle-kit studio
